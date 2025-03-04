@@ -48,30 +48,30 @@ To assemble correctly, please view the _assembly.stp file for help in parts orie
 ### Samples
 
 #### Film
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(1).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(2).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(3).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(4).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(5).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(6).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(7).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(8).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(9).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(1).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(2).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(3).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(4).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(5).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(6).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(7).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(8).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(9).jpg
 
 #### Digital
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(1).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(2).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(3).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(4).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(5).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(6).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(7).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(8).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(9).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(10).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(11).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(12).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(13).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(14).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(15).jpg
-https://github.com/Archive-663/lomoLCA/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(16).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(1).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(2).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(3).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(4).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(5).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(6).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(7).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(8).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(9).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(10).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(11).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(12).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(13).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(14).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(15).jpg
+https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/DIGITAL/sigma_30mm_digital%20(16).jpg
