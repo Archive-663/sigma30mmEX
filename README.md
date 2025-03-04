@@ -53,9 +53,6 @@ To assemble correctly, please view the _assembly.stp file for help in parts orie
 ![sampleFilmShot003](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(3).jpg)
 ![sampleFilmShot004](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(4).jpg)
 ![sampleFilmShot005](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(5).jpg)
-![sampleFilmShot006](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(6).jpg)
-![sampleFilmShot007](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(7).jpg)
-![sampleFilmShot008](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(8).jpg)
 ![sampleFilmShot009](https://github.com/Archive-663/sigma30mmEX/blob/main/ASSETS/SAMPLE/FILM/sigma_30mm_film%20(9).jpg)
 
 #### Digital
